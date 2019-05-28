@@ -25,7 +25,7 @@ LDC - the LLVM D compiler (1.15.0):
 
 ......
 ```
-# running errors
+# running errors for project `testobj`
 
 DMD
 
