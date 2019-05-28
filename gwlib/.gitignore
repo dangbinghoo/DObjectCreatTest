@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/gwlib
+gwlib.so
+gwlib.dylib
+gwlib.dll
+gwlib.a
+gwlib.lib
+gwlib-test-*
+*.exe
+*.o
+*.obj
+*.lst

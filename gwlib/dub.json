@@ -1,0 +1,16 @@
+{
+	"authors": [
+		"playpeng"
+	],
+	"copyright": "Copyright © 2019, playpeng",
+	"description": "Changhong Gateway common library",
+	"license": "proprietary",
+	"name": "gwlib",
+	"targetType": "library",
+	"dependencies": {
+		"hibernated": "~>0.3.4"
+	},
+	"subConfigurations": {
+		"hibernated": "SQLite"
+	}
+}

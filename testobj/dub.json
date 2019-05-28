@@ -1,0 +1,15 @@
+{
+	"authors": [
+		"playpeng"
+	],
+	"copyright": "Copyright © 2019, playpeng",
+	"description": "A minimal D application.",
+	"dependencies": {
+		"gwlib": {"path":"../gwlib"}
+	},
+	"subConfigurations": {
+		"hibernated": "SQLite"
+	},
+	"license": "proprietary",
+	"name": "testobj"
+}
